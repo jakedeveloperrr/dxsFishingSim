@@ -1,0 +1,9 @@
+name: dxsFishingSimulator
+version: '${project.version}'
+main: dxshardness.dxsfishingsimulator.DxsFishingSimulator
+api-version: '1.19'
+depend: [ProtocolLib]
+commands:
+  spawn_npc:
+  statfishing:
+  addbalance:

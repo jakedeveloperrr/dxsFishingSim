@@ -1,0 +1,26 @@
+# The value after the item name is calculated using the formula: item dropout percentage/100%
+drop_chance_no_boost:
+  crap: 0.70
+  pufferfish: 0.65
+  cooked_cod: 0.45
+  ripped_jacket: 0.15
+drop_chance_boost:
+  crap: 0.65
+  pufferfish: 0.45
+  cooked_cod: 0.75
+  ripped_jacket: 0.20
+
+# Coordinate for NPC
+npc_spawn_coordinate:
+  kirill:
+    x: 88.500
+    y: 63.0
+    z: 97.500
+  mark:
+    x: 110.0
+    y: 90.0
+    z: 110.0
+
+
+
+
